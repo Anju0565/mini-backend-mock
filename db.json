@@ -1,0 +1,26 @@
+{
+    "patient": [
+      {
+        "name": "Anju",
+        "age": "345",
+        "gender": "Female",
+        "mail": "a@gmail.com",
+        "mobile": "87666",
+        "address": "At-khoier, PO- Ramnipatti, via-Babubarhi, dis-Madhubani,Bihar",
+        "desease": "Diareah",
+        "medicine": "Norflo",
+        "id": 2
+      },
+      {
+        "name": "aaa",
+        "age": "23",
+        "gender": "Male",
+        "mail": "an@gmail.com",
+        "mobile": "789",
+        "address": "bihar",
+        "desease": "hkk",
+        "medicine": "hddj",
+        "id": 3
+      }
+    ]
+  }
